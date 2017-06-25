@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/twist025/lab05.svg?branch=master)](https://travis-ci.org/twist025/lab05)
 <<<<<<< HEAD
 # lab03
 github
